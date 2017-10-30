@@ -85,6 +85,7 @@ int main(void)
 {
     struct node *head = NULL;
     head = creat();
+    
 
 }
 
